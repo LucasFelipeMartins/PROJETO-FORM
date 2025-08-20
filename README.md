@@ -26,11 +26,11 @@ Este repositório contém um projeto simples de **página de login**, criado par
 
    📌 Observações
 
-Este projeto não possui back-end, é apenas uma simulação de login.
+- Este projeto não possui back-end, é apenas uma simulação de login.
 
-O foco está em praticar validações e manipulação de eventos em JavaScript.
+- O foco está em praticar validações e manipulação de eventos em JavaScript.
 
-O design foi feito de forma simples para dar ênfase na lógica do JS.
+- O design foi feito de forma simples para dar ênfase na lógica do JS.
 
 👨‍💻 Autor
 
